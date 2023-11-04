@@ -36,41 +36,40 @@
     <th>INSTITUTION</th>
     <th>DATE ACHIEVED</th>
   </tr>
+   <tr>
+    <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2276135&trackId=OCIF2023CA&key=c7e738a8c7fe9d599f41cc944e61900afc1bd801" style="text-decoration:none; color: black;">
+        <b>Oracle Cloud Infrastructure 2023 Certified Foundation Associate</a></b></td>
+        <td><br><b>Oracle Corporation, Inc.</b>
+        <br>2300 Oracle Way, Austin, Texas<br><br></td>
+    <td align="center">October 2023</td>
+  </tr>
+      <tr>
+    <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2276135&trackId=OCI23AIFCA&key=df5a363393d5cdbde23810f62dbe0a4119e70eab" style="text-decoration:none; color: black;">
+        <b>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></b></td>
+        <td><br><b>Oracle Corporation, Inc.</b>
+        <br>2300 Oracle Way, Austin, Texas<br><br></td>
+    <td align="center">October 2023</td>
+  </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/11J173QfB6sen_iKQEPW_7PsYlY-q0fs0/view?usp=sharing" style="text-decoration:none; color: black;">
+    <td><a href="https://skillshop.exceedlms.com/student/award/UgSupUYZ2pd2aYc13yzizzuK" style="text-decoration:none; color: black;">
         <b>Google Ads Measurement Certification</a></b></td>
     <td><br><b>Google Inc.</b>
         <br>1600 Amphitheatre Parkway Mountain View, CA 94043<br><br></td>
-    <td align="center">September 2023</td>
-        
+    <td align="center">September 2023</td>       
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1Xu94CRxEzzxWpMl6KrRp2kCFOn1r4NW4/view" style="text-decoration:none; color: black;">
-        <b>Oracle Autonomous Database Cloud 2021 Certified Specialist</a></b></td>
-        <td><br><b>Oracle Corporation, Inc.</b>
-        <br>2300 Oracle Way, Austin, Texas<br><br></td>
-        <td align="center">December 2021</td>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/19DtejHipYU26dKsS96Y7ia6SzsSo_Fzy/view" style="text-decoration:none; color: black;">
+    <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2276135&trackId=OCIBF2021&key=d988e65ca5847ca0720228e516d493a2067e71e9" style="text-decoration:none; color: black;">
         <b>Oracle Cloud Infrastructure Foundations 2021 Associate</a></b></td>
         <td><br><b>Oracle Corporation, Inc.</b>
         <br>2300 Oracle Way, Austin, Texas<br><br></td>
     <td align="center">December 2021</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1VA6-JPxNGAQz1xKA7M4jTh2gsywCSNsL/view" style="text-decoration:none; color: black;">
-        <b>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></b></td>
+    <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2276135&trackId=OADBC2021CA&key=8ef20d9787030769a61c04e3eb59ecadc1e5049e" style="text-decoration:none; color: black;">
+        <b>Oracle Autonomous Database Cloud 2021 Certified Specialist</a></b></td>
         <td><br><b>Oracle Corporation, Inc.</b>
         <br>2300 Oracle Way, Austin, Texas<br><br></td>
-    <td align="center">October 2023</td>
-  </tr>
-   <tr>
-    <td><a href="https://drive.google.com/file/d/1N-YTdvpRlTORAlQa9lMQMFwrKpvYIE-2/view" style="text-decoration:none; color: black;">
-        <b>Oracle Cloud Infrastructure 2023 Certified Foundation Associate</a></b></td>
-        <td><br><b>Oracle Corporation, Inc.</b>
-        <br>2300 Oracle Way, Austin, Texas<br><br></td>
-    <td align="center">October 2023</td>
+        <td align="center">December 2021</td>
   </tr>
 </table>
 
@@ -80,6 +79,13 @@
     <th>CERTIFICATION</th>
     <th>INSTITUTION</th>
     <th>DATE ACHIEVED</th>
+  </tr>
+<tr>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/a9eb976eaccb8d2b71f2836d714f4c347cece308?raw=1" style="text-decoration:none; color: black;">
+        <b>Understanding Data Engineering</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">April 2023</td>
   </tr>
   <tr>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/49f23583f425551b99da149d6b3c3f297e2284c5?raw=1" style="text-decoration:none; color: black;">
