@@ -138,14 +138,14 @@
     <td align="center">September 2023</td>
   </tr>  
    <tr>
-    <td><a href="https://drive.google.com/file/d/1wGsjG9ea9m1OyMUSvoClQdxUs_-r0PNM/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/0319fcd315896038242b0b03b49e312eb42126c8?raw=1" style="text-decoration:none; color: black;">
         <b>Introduction to Data Literacy</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>  
   <tr>
-    <td><a href="https://drive.google.com/file/d/1IsUPtj22BFhH4VlkME08RgVJ5hlhmZJ2/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/d6442ee9fc4120c45602f476588bba8505ab0363?raw=1" style="text-decoration:none; color: black;">
         <b>Introduction to Data</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
@@ -153,14 +153,14 @@
   </tr>  
  <tr>
  <tr>
-    <td><a href="https://drive.google.com/file/d/19D_a-Y6hpDjX64ehAGEF4clFf7n7EKb6/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/0c33b44b88a37d14f486e6b9b71fdd44393290d4?raw=1" style="text-decoration:none; color: black;">
         <b>Marketing Analysis for Business</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
  <tr>
-    <td><a href="https://drive.google.com/file/d/1uqXe0RkWJYCbo-qY0ViMHL3vkY10r7Jr/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/166dd9eb407bc095e94bd3fdbe1aeb4998858802?raw=1" style="text-decoration:none; color: black;">
         <b>Understanding Artificial Intelligence</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
