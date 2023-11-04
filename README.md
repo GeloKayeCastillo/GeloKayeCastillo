@@ -80,13 +80,6 @@
     <th>INSTITUTION</th>
     <th>DATE ACHIEVED</th>
   </tr>
-<tr>
-    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/a9eb976eaccb8d2b71f2836d714f4c347cece308?raw=1" style="text-decoration:none; color: black;">
-        <b>Understanding Data Engineering</a></b>
-    <td><br><b>Datacamp Inc.</b>
-        <br>New York, 350 5th Ave, United States<br><br></td>
-    <td align="center">April 2023</td>
-  </tr>
   <tr>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/49f23583f425551b99da149d6b3c3f297e2284c5?raw=1" style="text-decoration:none; color: black;">
         <b>AI Ethics</a></b>
@@ -186,6 +179,13 @@
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
+  </tr>
+<tr>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/a9eb976eaccb8d2b71f2836d714f4c347cece308?raw=1" style="text-decoration:none; color: black;">
+        <b>Understanding Data Engineering</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">April 2023</td>
   </tr>
 </table>
 
