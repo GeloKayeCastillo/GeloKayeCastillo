@@ -110,34 +110,32 @@
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1hP09VkS56Q4qdg3OPG02wD-6ajRrgppT/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/5390183ba5c84127507a64e27f5a505b0fc5e71e?raw=1" style="text-decoration:none; color: black;">
         <b>Data Literacy Case Study: Remote Working Analysis</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1VPT7R5k4zMGVEJiJ5hBN6AwlEoBLMQr4/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/15d36ff9c2a67729ef6dd5ef1193d1d6dc5d59df?raw=1" style="text-decoration:none; color: black;">
         <b>Data Science for Business</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1AXP2vszZel1-Zgh2UFVDCY9qvkbsFfy7/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/0fed3fcdce21175b104c87feac1e28d6bffee54e?raw=1" style="text-decoration:none; color: black;">
         <b>Generative AI Concepts</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>        
   <tr>
-    <td><a href="https://drive.google.com/file/d/1s8qVT_TW58B14sLVBusUkviaf3ikgaaT/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/42d6768761afaa5354f969d5151c763ab8a25dfd?raw=1" style="text-decoration:none; color: black;">
         <b>Github Concepts</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
-  </tr>  
-   <tr>
   </tr>  
    <tr>
     <td><a href="https://drive.google.com/file/d/1wGsjG9ea9m1OyMUSvoClQdxUs_-r0PNM/view" style="text-decoration:none; color: black;">
