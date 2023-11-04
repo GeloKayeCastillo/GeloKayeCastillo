@@ -82,28 +82,28 @@
     <th>DATE ACHIEVED</th>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1GQzUZn-HUa-KrsKJnCJ_USU2o_Kmmlcn/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/49f23583f425551b99da149d6b3c3f297e2284c5?raw=1" style="text-decoration:none; color: black;">
         <b>AI Ethics</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1WHlvd4T6SwN6GkSpZq0nYFGyjo7XgqCe/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/5d90d855ea01d9d58267c0cce31a753c959ebd28?raw=1" style="text-decoration:none; color: black;">
         <b>AWS Cloud Concepts</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1aECm7NJg0RodLrrjeKyTPexHhBTQa7-K/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/c11d15746583101039eb4ed4d3aef1eb7f0d6a7f?raw=1" style="text-decoration:none; color: black;">
         <b>Communicating Data Insights</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
     </tr>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1b_UrNqqmthyb48LDWUItJ_WmLhuz8z-f/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/1236ece4d7e712d2212680acc4a9a5c1618862c7?raw=1" style="text-decoration:none; color: black;">
         <b>Data Connections in Power BI</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
