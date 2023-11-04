@@ -168,14 +168,14 @@
   </tr>
  <tr>
  <tr>
-    <td><a href="https://drive.google.com/file/d/1-EzXxT9ff1P8DAvPOvGRFSTl_eXZ8uJt/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/68789eb1f46ae56ced06b2b09035a0187a1c054c?raw=1" style="text-decoration:none; color: black;">
         <b>Understanding Data Visualization</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
   </tr>
  <tr>
-    <td><a href="https://drive.google.com/file/d/1rryvPBXQsYzwU0s9d9r1UcZoolg2JcTE/view" style="text-decoration:none; color: black;">
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/59fee1d2a4cf34dfb1526ded8e83e179aa6642ba?raw=1" style="text-decoration:none; color: black;">
         <b>Understanding Machine Learning</a></b>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
