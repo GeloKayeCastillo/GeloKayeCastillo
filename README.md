@@ -81,6 +81,13 @@
     <th>DATE ACHIEVED</th>
   </tr>
   <tr>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fc1be1027dd23d10fd93d848e811a599330f657f?raw=1" style="text-decoration:none; color: black;">
+        <b>Introduction to Python</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">November 2023</td>
+  </tr>
+  <tr>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/49f23583f425551b99da149d6b3c3f297e2284c5?raw=1" style="text-decoration:none; color: black;">
         <b>AI Ethics</a></b>
     <td><br><b>Datacamp Inc.</b>
