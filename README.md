@@ -80,6 +80,13 @@
     <th>INSTITUTION</th>
     <th>DATE ACHIEVED</th>
   </tr>
+     <tr>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2ebfcfc68128bbdfde71a425030b60e32b8b3657?raw=1" style="text-decoration:none; color: black;">
+        <b>Introduction to Statistics in Python</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">November 2023</td>
+  </tr>
   <tr>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fc1be1027dd23d10fd93d848e811a599330f657f?raw=1" style="text-decoration:none; color: black;">
         <b>Introduction to Python</a></b>
