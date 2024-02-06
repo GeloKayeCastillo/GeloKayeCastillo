@@ -81,6 +81,13 @@
     <th>DATE ACHIEVED</th>
   </tr>
      <tr>
+    <td><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-5d1daee3-c154-4b6d-8c77-bc84e99a6e04.jpg" style="text-decoration:none; color: black;">
+        <b>AWS Identity and Access Management (IAM) Foundations</a></b>
+    <td><br><b>Udemy Inc.</b>
+        <br>600 Harrison Street, 3rd Floor, San Francisco, California 94107<br><br></td>
+    <td align="center">November 2023</td>
+  </tr>
+     <tr>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2ebfcfc68128bbdfde71a425030b60e32b8b3657?raw=1" style="text-decoration:none; color: black;">
         <b>Introduction to Statistics in Python</a></b>
     <td><br><b>Datacamp Inc.</b>
