@@ -80,6 +80,12 @@
     <th>INSTITUTION</th>
     <th>DATE ACHIEVED</th>
   </tr>
+    <tr>
+    <td><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-1d95a50f-c7ba-46ae-b9a3-b446d66b8b13.jpg?v=1707267789000" style="text-decoration:none; color: black;">
+        <b>Java Network Programming - Mastering TCP/IP: CJNP + 2024 JVA</b>
+        <br>600 Harrison Street, 3rd Floor, San Francisco, California 94107<br><br></td>
+    <td align="center">February 2024</td>
+  </tr>
      <tr>
     <td><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-5d1daee3-c154-4b6d-8c77-bc84e99a6e04.jpg" style="text-decoration:none; color: black;">
         <b>AWS Identity and Access Management (IAM) Foundations</a></b>
