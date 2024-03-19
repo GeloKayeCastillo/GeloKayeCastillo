@@ -227,7 +227,7 @@
   <tr>
 <td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
                  <ul align="left"><b>
-                    <li><a href="https://drive.google.com/file/d/1r3pxgXkho9iP_Vb5x2SCrD7DFpl3AXpr/view?usp=drive_link">Careers in IT</a></li><br>
+                    <li style="margin-left=30px;"><a href="https://drive.google.com/file/d/1r3pxgXkho9iP_Vb5x2SCrD7DFpl3AXpr/view?usp=drive_link">Careers in IT</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1RnnKbZcG-JUWXGLVavEnQQQLz5FLwboN/view?usp=drive_link">Exploring the New Age of Business Intelligence Innovation</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1nc_tg-XAMMxuKIzGXy_cj1ck9FtUlcgo/view?usp=drive_link">Art Thieves: How to Protect Your Art</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1cV6ikkquFGj8cbStvAzQ-66CGZoIIkqj/view?usp=drive_link">IT Industry: Landscape and Trends</a></li><br>
