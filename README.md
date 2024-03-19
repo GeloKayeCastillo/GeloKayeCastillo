@@ -19,7 +19,7 @@
 </p>
 
 
-<h3 align="center">A 4th-year Information Technology student at New Era University, Quezon City, Philippines</h3><br><br>
+<h3 align="center">IT Intern at National Kidney Transplant Insitute</h3><br><br>
 <h1 align="left">Languages and Tools</h1>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
