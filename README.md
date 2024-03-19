@@ -37,10 +37,14 @@
     <b>November 2023 - March 2024</b><br>
 </p>
 
-<b>Duties and Responsibilities</b><br>
+<b><br><br>Duties and Responsibilities</b><br>
 <ul>
     <li><b>Frontend Development - </b> Designing and developing user interface using C#, collaborating with UX/UI designers to enhance user experience.</li>
     <li><b>Backend Development - </b> Building and maintaining databases, integrating third-party APIs or services for extended functionalities.</li>
+    <li><b>Integration with Crystal SAP - </b> Writing scripts or developing middleware to facilitate seamless communication between C# applications and SAP.</li>
+    <li><b>Hardware Troubleshooting - </b> Resolving hardware issues on desktops, laptops, 
+printers, and other technical equipment.
+    <li><b>IT Call Support - </b> Providing first-level technical support to end-users via phone, email, or ticketing system.</li>
 </ul>
 
 <h1 align="left">Professional Certification</h1>
