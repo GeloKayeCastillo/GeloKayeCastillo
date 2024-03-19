@@ -234,7 +234,7 @@
   <tr>
     <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b><br><br>
         <ul>
-            <li><a href="https://drive.google.com/file/d/11SfnyfiOaKmTx6uLzDxcOLnmvnbGt7pa/view?usp=sharing" style="text-decoration:none; color: black;"><b>Intellectual Property Patents</a></b><br></li>
+            <li><a href="https://drive.google.com/file/d/11SfnyfiOaKmTx6uLzDxcOLnmvnbGt7pa/view?usp=sharing" style="text-decoration:none; color: black;"><b>Intellectual Property Patents</a></b><br><br></li>
         </ul>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
