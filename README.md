@@ -225,6 +225,21 @@
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/59fee1d2a4cf34dfb1526ded8e83e179aa6642ba?raw=1" style="text-decoration:none; color: black;">
+        <b>Understanding Machine Learning</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">September 2023</td>
+  </tr>
+  <tr>
+    <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b>
+        <a href="https://www.datacamp.com/statement-of-accomplishment/course/59fee1d2a4cf34dfb1526ded8e83e179aa6642ba?raw=1" style="text-decoration:none; color: black;">
+        <b>Intellectual Property Patents</a></b>
+    <td><br><b>Datacamp Inc.</b>
+        <br>New York, 350 5th Ave, United States<br><br></td>
+    <td align="center">September 2023</td>
+  </tr>
+  <tr>
 <td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
                  <ul align="left" style="margin-left: 30px;"><b>
                     <li><a href="https://drive.google.com/file/d/1r3pxgXkho9iP_Vb5x2SCrD7DFpl3AXpr/view?usp=drive_link">Careers in IT</a></li><br>
