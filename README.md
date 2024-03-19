@@ -1,4 +1,5 @@
-[<img src="https://www.newscientist.com/wp-content/uploads/2016/03/internet-copy.gif" width="700">](https://rishavchanda.io)
+[![MasterHead](https://www.newscientist.com/wp-content/uploads/2016/03/internet-copy.gif)](https://rishavchanda.io){:width="500px"}
+
 
 
 <h1 align="center">Gelo Kaye V Castillo</h1>
