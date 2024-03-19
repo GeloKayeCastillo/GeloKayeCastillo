@@ -221,12 +221,11 @@
 <table width="981">
   <tr>
     <th>Seminars</th>
+    <th>Institution</th>
     <th>Date</th>
   </tr>
   <tr>
 <td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
-                 <b>New Era University</b><br>
-                 9 St. Joseph Subdivision New Era, Quezon City<br>
                  <ul align="left"><b>
                     <li><a href="https://drive.google.com/file/d/1r3pxgXkho9iP_Vb5x2SCrD7DFpl3AXpr/view?usp=drive_link">Careers in IT</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1RnnKbZcG-JUWXGLVavEnQQQLz5FLwboN/view?usp=drive_link">Exploring the New Age of Business Intelligence Innovation</a></li><br>
@@ -238,6 +237,8 @@
                     <li><a href="https://drive.google.com/file/d/1jZ1FINwJFPZhJD3Ds1Ng_7P5Sep0EGga/view?usp=drive_link">Working Abroad</a></li><br>
                  </b></ul>
     </td>
+    <td><b>New Era University</b><br>
+           9 St. Joseph Subdivision New Era, Quezon City<br></td>
     <td>April 2022</td>
    </tr>
 </table>
