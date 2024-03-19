@@ -70,7 +70,7 @@
     <br><br> 
 </p>
 
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="410" height="300"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Languages" width="410" height="300"> |
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="410" height="300">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Languages" width="410" height="300"> 
 
 
 
