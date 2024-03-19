@@ -218,7 +218,13 @@
 </table>
 
 <h1 align="left">Seminars Attended</h1>
-<p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
+<table width="981">
+  <tr>
+    <th>Seminars</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+<td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
                  <b>New Era University</b><br>
                  9 St. Joseph Subdivision New Era, Quezon City<br>
                  <ul align="left"><b>
@@ -231,5 +237,8 @@
                     <li><a href="https://drive.google.com/file/d/12lVIsafYR2lRIgGWynGdq6pKtOK1ADs7/view?usp=drive_link">Self-Learning Graphic Design</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1jZ1FINwJFPZhJD3Ds1Ng_7P5Sep0EGga/view?usp=drive_link">Working Abroad</a></li><br>
                  </b></ul>
-
+    </td>
+    <td>April 2022</td>
+   </tr>
+</table>
 
