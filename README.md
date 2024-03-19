@@ -233,8 +233,8 @@
   </tr>
   <tr>
     <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b>
-        <a href="https://www.datacamp.com/statement-of-accomplishment/course/59fee1d2a4cf34dfb1526ded8e83e179aa6642ba?raw=1" style="text-decoration:none; color: black;">
-        <b>Intellectual Property Patents</a></b>
+        <a href="https://drive.google.com/file/d/11SfnyfiOaKmTx6uLzDxcOLnmvnbGt7pa/view?usp=sharing" style="text-decoration:none; color: black;">
+        <li><b>Intellectual Property Patents</a></b></li>
     <td><br><b>Datacamp Inc.</b>
         <br>New York, 350 5th Ave, United States<br><br></td>
     <td align="center">September 2023</td>
