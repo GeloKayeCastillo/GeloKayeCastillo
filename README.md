@@ -225,6 +225,104 @@
     <th>Date</th>
   </tr>
     <tr>
+        <td><a href="https://drive.google.com/file/d/1nlzN51h2OHafiOeAr3BnjlJPygPeTmSE/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Introduction in CISCO Networking Academy, Introduction in Python Programming, and Cybersecurity & Data Privacy Awareness</a></b>
+        <td><br><b>DICT - South Cotabato</b>
+            <br>Amurao Subd, Sta. Cruz, Koronadal City, South Cotabato<br><br></td>
+        <td align="center">March <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1xxUN5umUaNqPvyR_M5yAz7_Pfgqr2VPj/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Digital Tuesdays: Balancing Traditional Content Marketing with AI</a></b>
+        <td><br><b>DTI - Rizal Province</b>
+            <br>Sto. Niño Street, Antipolo, 1870 Rizal<br><br></td>
+        <td align="center">March <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1PwhCDHpJc1v8AC5kk8eZnwet0wickP5C/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Mapua University Cisco Python</a></b>
+        <td><br><b>MAPUA University</b>
+            <br>658 Muralla St, Intramuros, Manila, 1002 Metro Manila<br><br></td>
+        <td align="center">March <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1NdJcAutCbZ1N2K5y7XZDtPDnSWmFZzM5/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Cybersecurity Career: Demystifying ISC2 Entry-Level Certifications</a></b>
+        <td><br><b>DICT Region IX & BASULTA</b>
+            <br>DICT Region IX BASULTA Zamboanga City 7000 Zamboanga City<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1BpdxO4LgsG8ZyWaOxjqDuiBpN-hG01ev/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Introduction to Generation Connect and Digital Careers Expo</a></b>
+        <td><br><b>DICT Region VIII</b>
+            <br>8, A. Mabini St., Port Area, Tacloban City, Leyte, 6500<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1g2nQx9Xp30ZN-rNNg9CfBZ7eYehgJYUU/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Cyber Resilience: Understanding the Evolving Landscapes of Data Leaks</a></b>
+        <td><br><b>DICT Region IX & BASULTA</b>
+            <br>DICT Region IX BASULTA Zamboanga City 7000 Zamboanga City<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1RopkVq0oDaNCDNs9G17lb-go1Y3rpMCt/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Leveraging AI for Efficient Campaign Creation and Optimization</a></b>
+        <td><br><b>DTI - Rizal Province</b>
+            <br>Sto. Niño Street, Antipolo, 1870 Rizal<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1N-xqFbDunbTia1r9sIp3FeBrgGsoYOCD/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Crafting the Foundations: Exploring the Essence of AI Prompt Engineering</a></b>
+        <td><br><b>DICT - ILCDB Region II - Quirino Provincial Office</b>
+            <br>Old Tourism Bldg., 2nd floor, San Marcos, Cabarroguis<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1MPaW4vzGmMGgTh-M9waotL_Ke36-kIOc/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Securing the Future: A Deep Dive into Higher Education for Cybersecurity</a></b>
+        <td><br><b>Tech Academy | Ramlink I.T Consultancy</b>
+            <br>Tech Academy, Santa Maria, Laguna<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/12fOTW4JEPP6JKt38U7QyB7Cuq26SpaBM/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Introduction to Artificial Intelligence (AI)</a></b>
+        <td><br><b>DICT - ILCDB Region II - Quirino Provincial Office</b>
+            <br>Old Tourism Bldg., 2nd floor, San Marcos, Cabarroguis<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+     <tr>
+        <td><a href="https://drive.google.com/file/d/1TDjOpO0y9g4kMkKked1RJuGB4Q0oLBjr/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Leveraging Microsoft AI Services</a></b>
+        <td><br><b>MAPUA University</b>
+            <br>658 Muralla St, Intramuros, Manila, 1002 Metro Manila<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1xxO6XB7EKDB4ssjlySg2JqolAE11U00Q/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Internet Safety Strategies for Combating Online Abuse and Exploitation </a></b>
+        <td><br><b>City College of Calamba</b>
+            <br>General Lim St, Calamba, 4027 Laguna<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+     <tr>
+        <td><a href="https://drive.google.com/file/d/1L2k7L1ybtTPrv0BtG4U9ztOV2SIr3WF8/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Discovering Godot: An Introductory Guide to Game Development Part 2</a></b>
+        <td><br><b>DICT Region V - Camarines Sur</b>
+            <br>2nd fl, Tourism Center, Sto Domingo, Camaligan, Camarines Sur<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+     <tr>
+        <td><a href="https://drive.google.com/file/d/1YfZEyXz40IVyD-5NfuDflOhpk9f8-1w_/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Urban Intelligence Unveiled: AI Principles for Smart Cities</a></b>
+        <td><br><b>International Telecommunication Union (ITU)</b>
+            <br>(ITU) Place des Nations 1211 Geneva 20 Switzerland<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
         <td><a href="https://drive.google.com/file/d/1yduvsWerO5gsA_17FKE14rZaucuL6dUO/view?usp=sharing" style="text-decoration:none; color: black;">
             <b>The Dynamics of Cloud Computing</a></b>
         <td><br><b>DICT Occidental Mindoro </b>
