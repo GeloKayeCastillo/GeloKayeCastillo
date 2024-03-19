@@ -225,6 +225,20 @@
     <th>Date</th>
   </tr>
     <tr>
+        <td><a href="https://drive.google.com/file/d/1yduvsWerO5gsA_17FKE14rZaucuL6dUO/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>The Dynamics of Cloud Computing</a></b>
+        <td><br><b>DICT Occidental Mindoro </b>
+            <br>Payompon, Mamburao, 5106 Mamburao<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/12TdYt2CHl074MkUsvIrW3GyoBsICm-Ao/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Safer Internet 2024 Empowering Young People to Share Online World</a></b>
+        <td><br><b>DICT IX & BASULTA</b>
+            <br>DICT Region IX BASULTA Zamboanga City 7000 Zamboanga City<br><br></td>
+        <td align="center">February <br>2024</td>
+    </tr>
+    <tr>
         <td><a href="https://drive.google.com/file/d/14l0iZHSjATTNjIng3fxFqVz84Zi4iyFM/view?usp=sharing" style="text-decoration:none; color: black;">
             <b>Future of real-love in the virtual world: The Perfect Date</a></b>
         <td><br><b>International Telecommunication Union (ITU)</b>
@@ -276,7 +290,7 @@
     </td>
     <td><b>New Era University</b><br>
            9 St. Joseph Subdivision New Era, Quezon City<br></td>
-    <td>April <br>2022</td>
+    <td align="center">April <br>2022</td>
    </tr>
 </table>
 
