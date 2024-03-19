@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*OPoKNWAoK5YMwTu3?width=1025&height=267)](https://rishavchanda.io)
+[![MasterHead](https://www.newscientist.com/wp-content/uploads/2016/03/internet-copy.gifheight=267)](https://rishavchanda.io)
+
 
 
 
