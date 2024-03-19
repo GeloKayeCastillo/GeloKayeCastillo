@@ -1,4 +1,4 @@
-[![MasterHead](https://www.newscientist.com/wp-content/uploads/2016/03/internet-copy.gifheight=267)](https://rishavchanda.io)
+[![MasterHead](https://www.newscientist.com/wp-content/uploads/2016/03/internet-copy.gif)](https://rishavchanda.io)
 
 
 
