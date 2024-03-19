@@ -71,8 +71,7 @@
 </p>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
-
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
 
 
 <h1 align="left">Education</h1>
