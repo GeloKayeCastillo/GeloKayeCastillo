@@ -229,28 +229,28 @@
             <b>Future of real-love in the virtual world: The Perfect Date</a></b>
         <td><br><b>International Telecommunication Union (ITU)</b>
             <br>(ITU) Place des Nations 1211 Geneva 20 Switzerland<br><br></td>
-        <td align="center">February 2024</td>
+        <td align="center">February <br>2024</td>
     </tr>
     <tr>
         <td><a href="https://drive.google.com/file/d/1_SoCaqDMJHpvSZIkKDe1Fp0sOmQeZpyQ/view?usp=sharing" style="text-decoration:none; color: black;">
             <b>Discovering Godot: An Introductory Guide to Game Development Part 1</a></b>
         <td><br><b>DICT Region V - Camarines Sur</b>
             <br>2nd fl, Tourism Center, Sto Domingo, Camaligan, Camarines Sur<br><br></td>
-        <td align="center">February 2024</td>
+        <td align="center">February <br>2024</td>
     </tr>
     <tr>
         <td><a href="https://drive.google.com/file/d/1zM3S8U-2n4xsNDd-UNpragw1-ffwZsr9/view?usp=sharing" style="text-decoration:none; color: black;">
             <b>Cyber Hygiene and Digital Citizenship</a></b>
         <td><br><b>DICT Region II - Quirino Provincial Office</b>
             <br>Old Tourism Bldg., 2nd floor, San Marcos 3400 Cabarroguis, Philippines<br><br></td>
-        <td align="center">February 2024</td>
+        <td align="center">February <br>2024</td>
   </tr>
   <tr>
         <td><a href="https://drive.google.com/file/d/1DwZUJKdoIb3WjpacAz5mzDmtNw_z8-4p/view?usp=sharing" style="text-decoration:none; color: black;">
             <b>Securing Hearts and Bytes: Navigating the Heartbeat of Digital Safety</a></b>
         <td><br><b>DICT Region IVB - MIMAROPA</b>
             <br>Old Tourism Bldg., 2nd floor, San Marcos 3400 Cabarroguis, Philippines<br><br></td>
-        <td align="center">February 2024</td>
+        <td align="center">February <br>2024</td>
   </tr>
   <tr>
     <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b><br><br>
@@ -259,7 +259,7 @@
         </ul>
             <td><b>New Era University</b><br>
             9 St. Joseph Subdivision New Era, Quezon City<br></td>
-    <td align="center">March 2023</td>
+    <td align="center">March <br>2023</td>
   </tr>
   <tr>
     <td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
@@ -276,7 +276,7 @@
     </td>
     <td><b>New Era University</b><br>
            9 St. Joseph Subdivision New Era, Quezon City<br></td>
-    <td>April 2022</td>
+    <td>April <br>2022</td>
    </tr>
 </table>
 
