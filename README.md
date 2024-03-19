@@ -70,10 +70,7 @@
     <br><br> 
 </p>
 
-
-| GitHub Streak | Top Langs |
-
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="400" height="250"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Languages" width="400" height="250"> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="410" height="300"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Languages" width="410" height="300"> |
 
 
 
