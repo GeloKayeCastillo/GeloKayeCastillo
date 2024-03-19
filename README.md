@@ -232,7 +232,7 @@
     <td align="center">September 2023</td>
   </tr>
   <tr>
-    <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b><br>
+    <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b><br><br>
         <ul>
             <li><a href="https://drive.google.com/file/d/11SfnyfiOaKmTx6uLzDxcOLnmvnbGt7pa/view?usp=sharing" style="text-decoration:none; color: black;"><b>Intellectual Property Patents</a></b></li>
         </ul>
