@@ -72,10 +72,6 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="420" height="300">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Languages" width="420" height="308"> 
 
-
-
-
-
 <h1 align="left">Education</h1>
 <p align="left"> <b>Science, Technology, Engineering, and Mathematics Strand</b><br>
                  New Era University Integrated School<br>
