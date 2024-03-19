@@ -71,8 +71,8 @@
 </p>
 
 
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GeloKayeCastillo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeloKayeCastillo" alt="GitHub Readme Streak Stats" width="450" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="450" height="200">
 
 
 
