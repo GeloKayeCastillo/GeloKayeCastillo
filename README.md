@@ -71,8 +71,8 @@
 </p>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeloKayeCastillo" alt="GitHub Readme Streak Stats" width="400" height="200" style="background-color: black;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Langs" width="400" height="200" style="background-color: black;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GeloKayeCastillo&theme=dark" alt="GitHub Streak" width="300" height="200" style="background-color: black;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=radical" alt="Top Langs" width="300" height="200" style="background-color: black;">
 
 
 
