@@ -33,13 +33,13 @@
 <p align="left"> <b>IT On-The-Job Intern (IRM IT Department)</b><br>
                  National Kidney Transplant Institute<br>
                  East Avenue Diliman, Quezon City, 1101 Philippines<br>
-                 <b>November 2023 - March 2024<br></p>
+                 November 2023 - March 2024<br></p>
 
-                 <b>Duties and Responsibilities</b><br>
+                 <p><b>Duties and Responsibilities</b><br>
                  <ul>
                  <li><b>Frontend Development - <b> Designing and developing user interface using C# collaborating UX/UI designers to enhance user experience.</li>
                  <li><b>Backend Development - <b> Building and maintaining databases Integrating third-party APIs or services for extended functionalities.</li>
-                 </ul>
+                 </ul></p>
 
 <h1 align="left">Professional Certification</h1>
 <table width="981">
