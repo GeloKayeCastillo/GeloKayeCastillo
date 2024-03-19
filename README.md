@@ -224,12 +224,33 @@
     <th>Institution</th>
     <th>Date</th>
   </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/14l0iZHSjATTNjIng3fxFqVz84Zi4iyFM/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Future of real-love in the virtual world: The Perfect Date</a></b>
+        <td><br><b>International Telecommunication Union (ITU)</b>
+            <br>(ITU) Place des Nations 1211 Geneva 20 Switzerland<br><br></td>
+        <td align="center">February 2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1_SoCaqDMJHpvSZIkKDe1Fp0sOmQeZpyQ/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Discovering Godot: An Introductory Guide to Game Development Part 1</a></b>
+        <td><br><b>DICT Region V - Camarines Sur</b>
+            <br>2nd fl, Tourism Center, Sto Domingo, Camaligan, Camarines Sur<br><br></td>
+        <td align="center">February 2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1zM3S8U-2n4xsNDd-UNpragw1-ffwZsr9/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Cyber Hygiene and Digital Citizenship</a></b>
+        <td><br><b>DICT Region II - Quirino Provincial Office</b>
+            <br>Old Tourism Bldg., 2nd floor, San Marcos 3400 Cabarroguis, Philippines<br><br></td>
+        <td align="center">February 2024</td>
+  </tr>
   <tr>
-    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/59fee1d2a4cf34dfb1526ded8e83e179aa6642ba?raw=1" style="text-decoration:none; color: black;">
-        <b>Understanding Machine Learning</a></b>
-    <td><br><b>Datacamp Inc.</b>
-        <br>New York, 350 5th Ave, United States<br><br></td>
-    <td align="center">September 2023</td>
+        <td><a href="https://drive.google.com/file/d/1DwZUJKdoIb3WjpacAz5mzDmtNw_z8-4p/view?usp=sharing" style="text-decoration:none; color: black;">
+            <b>Securing Hearts and Bytes: Navigating the Heartbeat of Digital Safety</a></b>
+        <td><br><b>DICT Region IVB - MIMAROPA</b>
+            <br>Old Tourism Bldg., 2nd floor, San Marcos 3400 Cabarroguis, Philippines<br><br></td>
+        <td align="center">February 2024</td>
   </tr>
   <tr>
     <td> <b>HELLO, NEW WORLD: WEBINAR SUMMIT</b><br><br>
@@ -238,10 +259,10 @@
         </ul>
             <td><b>New Era University</b><br>
             9 St. Joseph Subdivision New Era, Quezon City<br></td>
-    <td align="center">September 2023</td>
+    <td align="center">March 2023</td>
   </tr>
   <tr>
-<td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
+    <td><p align="left"> <b> Lessons, Trends and Opportunities in Technology Webinar Series</b><br>
                  <ul align="left" style="margin-left: 30px;"><b>
                     <li><a href="https://drive.google.com/file/d/1r3pxgXkho9iP_Vb5x2SCrD7DFpl3AXpr/view?usp=drive_link">Careers in IT</a></li><br>
                     <li><a href="https://drive.google.com/file/d/1RnnKbZcG-JUWXGLVavEnQQQLz5FLwboN/view?usp=drive_link">Exploring the New Age of Business Intelligence Innovation</a></li><br>
