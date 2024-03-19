@@ -72,6 +72,8 @@
 
 
 ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GeloKayeCastillo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeloKayeCastillo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align="left">Education</h1>
